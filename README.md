@@ -6,4 +6,4 @@
 
 📱 I also have experience with mobile technologies such as Swift, SwiftUI, and Objective-C and have built several native iOS apps.
 
-🌱 I’m currently expanding my skill set by delving into systems programming with Rust 🦀 and Zig.
+🌱 I’m currently expanding my skill set by delving into systems programming with Rust 🦀.
